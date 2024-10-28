@@ -1,16 +1,17 @@
-## Hi there 👋
+# My First Repository
 
-<!--
-**Janineint/Janineint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my first repository! Here, I'll be coding primarily in **C#** and **HTML** as I build up my skills and work on various projects.
 
-Here are some ideas to get you started:
+## About This Repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository will serve as a learning playground where I experiment with different coding techniques and put theory into practice. I'll focus on coding fundamentals in **C#**, designing webpages with **HTML**, and learning best practices for version control with **Git**.
+
+## Future Projects
+
+Some project ideas I am interested in exploring:
+
+- **Web Application Development:** Building a small-scale web app with an HTML frontend and a C# backend for user management or data handling.
+- **Console Applications in C#:** Working on a simple game, calculator, or text-based application to strengthen my understanding of C#.
+- **Portfolio Website:** Creating a personal portfolio website using HTML to showcase my projects and track my coding journey.
+
+Thank you for checking out my repository!
